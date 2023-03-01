@@ -1,4 +1,6 @@
 обучение GIT
 
+Commit Test
+
 make changes to commit
 Add LinE
