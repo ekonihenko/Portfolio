@@ -1,1 +1,3 @@
 обучение GIT
+
+make changes to commit
