@@ -1,5 +1,7 @@
 обучение GIT2
 
+untesting обучение GIT
+
 Commit Test
 
 make changes to commit
