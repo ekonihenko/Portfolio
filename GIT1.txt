@@ -1,4 +1,4 @@
-обучение GIT
+обучение GIT2
 
 Commit Test
 
